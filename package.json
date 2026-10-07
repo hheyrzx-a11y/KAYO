@@ -1,0 +1,17 @@
+{
+  "name": "kayro-studio-hq-api",
+  "version": "1.0.0",
+  "description": "API de parche HQ para MP4 H.264/AVC - KAYRO STUDIO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
+  }
+}
